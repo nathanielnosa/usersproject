@@ -10,6 +10,7 @@ connectDB()
 
 // routers
 app.use('/register', require('./routers/register'))
+app.use('/login', require('./routers/login'))
 
 
 const PORT = process.env.PORT || 4000
