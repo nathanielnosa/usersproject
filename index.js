@@ -5,8 +5,11 @@ const connectDB = require('./config/dbCon')
 
 
 const app = express()
+app.use(express.json())
 connectDB()
 
+// routers
+app.use('/register', require('./routers/register'))
 
 
 const PORT = process.env.PORT || 4000
