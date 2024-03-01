@@ -11,6 +11,11 @@ https://usersproject-x2t6.onrender.com/register
 ## login user
 https://usersproject-x2t6.onrender.com/login
 
+## image rep
+![image](https://github.com/nathanielnosa/usersproject/assets/52939265/779a4f60-4edf-43e2-a639-7299cdbd2820)
+
+====================================================
+
 ## // end point for employee
 
 GET ALL: https://usersproject-x2t6.onrender.com/employee
